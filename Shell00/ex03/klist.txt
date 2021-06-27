@@ -1,0 +1,5 @@
+Credentials cache: API:5730
+        Principal: rsarri-c@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 22 12:24:06 2021  Jun 22 22:23:53 2021  krbtgt/42MADRID.COM@42MADRID.COM
